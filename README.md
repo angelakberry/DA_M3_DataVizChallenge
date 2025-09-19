@@ -1,3 +1,5 @@
+Angela wuz here
+
 # ☕ Data Visualization Ethics Challenge
 
 This repository contains a fictional coffee chain sales dataset and a starter Jupyter Notebook for the **Data Visualization Ethics Challenge**.
